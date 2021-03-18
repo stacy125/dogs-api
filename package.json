@@ -1,0 +1,20 @@
+{
+  "name": "api-project",
+  "version": "1.0.0",
+  "description": "This week, you will build a JSON API from the ground up!. This means we will be choosing an idea, planning it out, and then building it. This is exciting! We've given you the tools to build what you want, and now **you** get to decide what you do with it. Now is your chance to exercise your own creativity in choosing what sort of application you want to build!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.generalassemb.ly/dc-wdi-node-express/api-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.0"
+  }
+}
